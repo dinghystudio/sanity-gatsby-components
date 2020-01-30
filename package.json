@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dinghystudio/sanity-gatsby-components/issues"
   },
-  "homepage": "https://github.com/dinghystudio/sanity-gatsby-components#readme"
+  "homepage": "https://github.com/dinghystudio/sanity-gatsby-components#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
