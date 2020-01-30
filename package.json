@@ -1,0 +1,24 @@
+{
+  "name": "@dinghystudio/sanity-gatsby-components",
+  "version": "0.0.1",
+  "description": "A collection of Gatsby + Sanity components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinghystudio/sanity-gatsby-components.git"
+  },
+  "keywords": [
+    "sanity",
+    "gatsby",
+    "react"
+  ],
+  "author": "Dinghy Studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinghystudio/sanity-gatsby-components/issues"
+  },
+  "homepage": "https://github.com/dinghystudio/sanity-gatsby-components#readme"
+}
